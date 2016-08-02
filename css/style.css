@@ -1,0 +1,81 @@
+@font-face {
+    font-family: 'diner-regularregular';
+    src: url('fsFont/Diner-Regular-webfont.eot');
+    src: url('fsFont/Diner-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fsFont/Diner-Regular-webfont.woff') format('woff'),
+         url('fsFont/Diner-Regular-webfont.ttf') format('truetype'),
+         url('fsFont/Diner-Regular-webfont.svg#diner-regularregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'england_hand_dbregular';
+    src: url('fsFont/england-webfont.eot');
+    src: url('fsFont/england-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fsFont/england-webfont.woff') format('woff'),
+         url('fsFont/england-webfont.ttf') format('truetype'),
+         url('fsFont/england-webfont.svg#england_hand_dbregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+#slogan {
+  font-family: 'england_hand_dbregular';
+  color: black;
+  text-align: center;
+}
+
+#logo {
+  display: block;
+  margin: auto;
+}
+
+#splash {
+  background-image: url("splash.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: 60% 50%;
+
+  background-color: #cccccc;
+}
+
+.btn-lg {
+  font-size: 300%;
+  font-family: 'Arial';
+  background-color: 'grey' !important;
+}
+
+#raveReview {
+  text-align: center;
+}
+
+#menuBtn {
+display: inline-block;
+
+margin:0 auto;
+
+background-color: #222;
+color: white;
+}
+
+.wrapping{
+ width: -50%;
+ text-align:center;
+}
+
+
+/*#aboutPage {
+background-image: url("shady.jpg");
+background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: 60% 50%;
+
+  background-color: #cccccc;
+}*/
